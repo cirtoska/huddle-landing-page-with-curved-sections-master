@@ -73,6 +73,10 @@ a:hover {
   background-color: var(--secondary-color-);
   color: white;
 }
+#navbar,
+#showcase {
+  padding: 0 1.5rem;
+}
 #navbar {
   display: flex;
   justify-content: space-between;
@@ -265,10 +269,6 @@ input[type="submit"]:hover {
   color: var(--secondary-color-);
 }
 @media (max-width: 768px) {
-  #navbar,
-  #showcase {
-    padding: 0 1.5rem;
-  }
   #showcase .stats .bigNum {
     font-size: 3rem;
   }
