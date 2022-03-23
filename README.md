@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://i.ibb.co/Qbpg2FC/Solution-Desktop-Screenshot-2022-03-23-at-11-08-39-Frontend-Mentor-Huddle-landing-page-with-curved-s.png" alt="Solution-Desktop-Screenshot-2022-03-23-at-11-08-39-Frontend-Mentor-Huddle-landing-page-with-curved-s" border="0">
+<img src="https://i.ibb.co/g9mQ3Kx/Solution-Desktop-Screenshot-2022-03-23-at-11-08-39-Frontend-Mentor-Huddle-landing-page-with-curved-s.png" alt="Solution-Desktop-Screenshot-2022-03-23-at-11-08-39-Frontend-Mentor-Huddle-landing-page-with-curved-s" border="0">
 <img src="https://i.ibb.co/0mm7r8B/Solution-Mobile-Screenshot-2022-03-23-at-11-12-21-Frontend-Mentor-Huddle-landing-page-with-curved-se.png" alt="Solution-Mobile-Screenshot-2022-03-23-at-11-12-21-Frontend-Mentor-Huddle-landing-page-with-curved-se" border="0">
 
 ### Links
