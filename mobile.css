@@ -1,0 +1,65 @@
+#showcase .showcaseDescription {
+  line-height: 1.4;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+.showcaseImg img {
+  width: 100%;
+}
+#showcase .stats {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#showcase .community .left-items img,
+#showcase .messages .right-items img {
+  width: 15%;
+}
+#showcase .community {
+  margin-bottom: 8rem;
+}
+#showcase .stats .bigNum {
+  font-size: 4rem;
+  font-weight: 700;
+}
+#showcase .stats p {
+  opacity: 0.6;
+  font-size: 1.2rem;
+}
+
+.col-img img,
+.col-text {
+  margin: 0;
+  max-width: 100%;
+  text-align: center;
+}
+
+.background-top-1 {
+  background-image: url("./images/bg-section-top-mobile-1.svg");
+  height: 100px;
+}
+.background-bottom-1 {
+  background-image: url("./images/bg-section-bottom-mobile-1.svg");
+  height: 50px;
+}
+.background-top-2 {
+  background-image: url("./images/bg-section-top-mobile-2.svg");
+  height: 100px;
+}
+.background-bottom-2 {
+  background-image: url("./images/bg-section-bottom-mobile-2.svg");
+  height: 100px;
+}
+.usersCommunity {
+  margin-bottom: 12rem;
+}
+footer {
+  padding: 2rem;
+}
+.footer-waves {
+  display: block;
+  background-image: url("./images/bg-footer-top-mobile.svg");
+  height: 50px;
+}
+.getInTouch img {
+  max-width: 200px;
+}
